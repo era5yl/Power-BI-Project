@@ -10,7 +10,7 @@ The link in Power BI service: https://app.powerbi.com/links/jZOs6S0v0Z?ctid=b41b
 
 ## Pages of the report
 
-![image_alt](photo_2026-04-18 04.29.41.jpeg)
+![Alt text](photo_2026-04-18 04.29.41.jpeg)
 
 ![image_alt](photo_2026-04-18 04.29.44.jpeg)
 
