@@ -10,12 +10,12 @@ The link in Power BI service: https://app.powerbi.com/links/jZOs6S0v0Z?ctid=b41b
 
 ## Pages of the report
 
-![Alt text](photo_2026-04-18 04.29.41.jpeg)
+![Alt text](photo_2026-04-18_04.29.41.jpeg)
 
-![image_alt](photo_2026-04-18 04.29.44.jpeg)
+![image_alt](photo_2026-04-1804.29.44.jpeg)
 
-![image_alt](photo_2026-04-18 04.29.45.jpeg)
+![image_alt](photo_2026-04-1804.29.45.jpeg)
 
-![image_alt](photo_2026-04-18 04.29.46.jpeg)
+![image_alt](photo_2026-04-1804.29.46.jpeg)
 
-![image_alt](photo_2026-04-18 04.29.47.jpeg)
+![image_alt](photo_2026-04-1804.29.47.jpeg)
